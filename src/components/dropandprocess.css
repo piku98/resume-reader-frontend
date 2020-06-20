@@ -1,0 +1,39 @@
+.dropzone {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    border-width: 2px;
+    border-color: rgb(102, 102, 102);
+    border-style: dashed;
+    border-radius: 5px;
+}
+
+.dragmessage {
+    position: relative;
+    width: 50%;
+    left: 40%;
+    right: 50%;
+    top: 40%;
+}
+
+.dropzoneparent {
+    width: 50%;
+}
+
+.showrequestparent {
+    width: 50%;
+}
+
+.fileuploadparentdr div {
+    float: left;
+    clear: none;
+}
+
+.showrequest {
+    width: 100%;
+    height: 500px;
+}
+
+.submitbuttondiv {
+    margin-left: 45%;
+}
